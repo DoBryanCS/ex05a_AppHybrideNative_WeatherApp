@@ -33,7 +33,7 @@ useEffect(() => {
     getData();
 }, [ville])
 
-
+    
     return (
         <div>
             <h2 className="has-text-centered title is-1 is-primary">OpenWeatherMap</h2>
